@@ -5,12 +5,18 @@ This repository contains my solutions to various coding problems from [LeetCode]
 # Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 # Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 # Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
+# Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0011-container-with-most-water) |
