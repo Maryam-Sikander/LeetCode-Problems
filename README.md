@@ -11,6 +11,7 @@ This repository contains my solutions to various coding problems from [LeetCode]
 | [0079-word-search](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0162-find-peak-element) |
+| [0179-largest-number](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0179-largest-number) |
 # Two Pointers
 |  |
 | ------- |
@@ -20,10 +21,12 @@ This repository contains my solutions to various coding problems from [LeetCode]
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
+| [0179-largest-number](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0179-largest-number) |
 # Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0179-largest-number) |
 # Hash Table
 |  |
 | ------- |
@@ -37,6 +40,7 @@ This repository contains my solutions to various coding problems from [LeetCode]
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0079-word-search) |
+| [0179-largest-number](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0179-largest-number) |
 # Backtracking
 |  |
 | ------- |
