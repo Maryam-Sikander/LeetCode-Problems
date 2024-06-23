@@ -41,6 +41,7 @@ This repository contains my solutions to various coding problems from [LeetCode]
 | ------- |
 | [0079-word-search](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0179-largest-number) |
+| [0640-solve-the-equation](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0640-solve-the-equation) |
 # Backtracking
 |  |
 | ------- |
@@ -49,3 +50,11 @@ This repository contains my solutions to various coding problems from [LeetCode]
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0079-word-search) |
+# Math
+|  |
+| ------- |
+| [0640-solve-the-equation](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0640-solve-the-equation) |
+# Simulation
+|  |
+| ------- |
+| [0640-solve-the-equation](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0640-solve-the-equation) |
