@@ -12,6 +12,7 @@ This repository contains my solutions to various coding problems from [LeetCode]
 | [0088-merge-sorted-array](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0179-largest-number) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/1349-check-if-it-is-a-straight-line) |
 # Two Pointers
 |  |
 | ------- |
@@ -54,7 +55,12 @@ This repository contains my solutions to various coding problems from [LeetCode]
 |  |
 | ------- |
 | [0640-solve-the-equation](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0640-solve-the-equation) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/1349-check-if-it-is-a-straight-line) |
 # Simulation
 |  |
 | ------- |
 | [0640-solve-the-equation](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0640-solve-the-equation) |
+# Geometry
+|  |
+| ------- |
+| [1349-check-if-it-is-a-straight-line](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/1349-check-if-it-is-a-straight-line) |
