@@ -13,6 +13,7 @@ This repository contains my solutions to various coding problems from [LeetCode]
 | [0162-find-peak-element](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0179-largest-number) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1364-tuple-with-same-product](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/1364-tuple-with-same-product) |
 # Two Pointers
 |  |
 | ------- |
@@ -32,6 +33,7 @@ This repository contains my solutions to various coding problems from [LeetCode]
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0041-first-missing-positive) |
+| [1364-tuple-with-same-product](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/1364-tuple-with-same-product) |
 # Binary Search
 |  |
 | ------- |
@@ -64,3 +66,7 @@ This repository contains my solutions to various coding problems from [LeetCode]
 |  |
 | ------- |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/1349-check-if-it-is-a-straight-line) |
+# Counting
+|  |
+| ------- |
+| [1364-tuple-with-same-product](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/1364-tuple-with-same-product) |
