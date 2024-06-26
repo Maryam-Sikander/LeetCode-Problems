@@ -56,6 +56,7 @@ This repository contains my solutions to various coding problems from [LeetCode]
 # Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0640-solve-the-equation](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0640-solve-the-equation) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/1349-check-if-it-is-a-straight-line) |
 # Simulation
@@ -70,3 +71,11 @@ This repository contains my solutions to various coding problems from [LeetCode]
 |  |
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/1364-tuple-with-same-product) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0070-climbing-stairs) |
+# Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0070-climbing-stairs) |
