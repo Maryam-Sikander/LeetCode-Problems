@@ -53,6 +53,7 @@ This repository contains my solutions to various coding problems from [LeetCode]
 | [0079-word-search](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0179-largest-number) |
 | [0640-solve-the-equation](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0640-solve-the-equation) |
+| [1078-remove-outermost-parentheses](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [2470-removing-stars-from-a-string](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/2470-removing-stars-from-a-string) |
 | [3312-number-of-changing-keys](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/3312-number-of-changing-keys) |
 # Backtracking
@@ -94,4 +95,5 @@ This repository contains my solutions to various coding problems from [LeetCode]
 # Stack
 |  |
 | ------- |
+| [1078-remove-outermost-parentheses](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [2470-removing-stars-from-a-string](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/2470-removing-stars-from-a-string) |
