@@ -6,8 +6,8 @@ class Solution:
             if i in '([{':
                 stack.append(i)
             else:
-                if not stack or (i == ')' and stack[-1] !='(') or (i == ']' and stack[-1] != '[') or (i == '}' and stack[-1] != '{'):
+                if len(stack) == 0 or (i == ')' and stack[-1] !='(') or (i == ']' and stack[-1] != '[') or (i == '}' and stack[-1] != '{'):
                     return False
                     break
                 stack.pop()
-        return not stack
+        return len(stack) == 0
