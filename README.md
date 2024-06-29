@@ -97,3 +97,14 @@ This repository contains my solutions to various coding problems from [LeetCode]
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [2470-removing-stars-from-a-string](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/2470-removing-stars-from-a-string) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+<!---LeetCode Topics End-->
