@@ -107,4 +107,16 @@ This repository contains my solutions to various coding problems from [LeetCode]
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0078-subsets) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
