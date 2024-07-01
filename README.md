@@ -111,6 +111,7 @@ This repository contains my solutions to various coding problems from [LeetCode]
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0078-subsets) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Backtracking
 |  |
 | ------- |
@@ -119,4 +120,12 @@ This repository contains my solutions to various coding problems from [LeetCode]
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0078-subsets) |
+## Hash Table
+|  |
+| ------- |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
+## Counting
+|  |
+| ------- |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
