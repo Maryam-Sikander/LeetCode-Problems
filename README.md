@@ -103,10 +103,12 @@ This repository contains my solutions to various coding problems from [LeetCode]
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0682-baseball-game) |
 ## Array
 |  |
@@ -134,4 +136,12 @@ This repository contains my solutions to various coding problems from [LeetCode]
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0682-baseball-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
