@@ -107,10 +107,12 @@ This repository contains my solutions to various coding problems from [LeetCode]
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0682-baseball-game) |
 ## Array
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0078-subsets) |
+| [0682-baseball-game](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0682-baseball-game) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Backtracking
 |  |
@@ -128,4 +130,8 @@ This repository contains my solutions to various coding problems from [LeetCode]
 |  |
 | ------- |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
