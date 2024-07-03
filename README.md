@@ -115,6 +115,7 @@ This repository contains my solutions to various coding problems from [LeetCode]
 | ------- |
 | [0078-subsets](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0078-subsets) |
 | [0682-baseball-game](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0682-baseball-game) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Backtracking
 |  |
@@ -144,4 +145,16 @@ This repository contains my solutions to various coding problems from [LeetCode]
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
+## Two Pointers
+|  |
+| ------- |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+## Binary Search
+|  |
+| ------- |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+## Sorting
+|  |
+| ------- |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
