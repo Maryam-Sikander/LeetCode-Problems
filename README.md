@@ -114,6 +114,7 @@ This repository contains my solutions to various coding problems from [LeetCode]
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0015-3sum) |
 | [0078-subsets](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0078-subsets) |
 | [0682-baseball-game](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0682-baseball-game) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -152,6 +153,7 @@ This repository contains my solutions to various coding problems from [LeetCode]
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0015-3sum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
@@ -160,6 +162,7 @@ This repository contains my solutions to various coding problems from [LeetCode]
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0015-3sum) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Design
