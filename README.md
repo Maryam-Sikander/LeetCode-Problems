@@ -108,6 +108,7 @@ This repository contains my solutions to various coding problems from [LeetCode]
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0678-valid-parenthesis-string](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0682-baseball-game) |
 ## Array
@@ -161,4 +162,12 @@ This repository contains my solutions to various coding problems from [LeetCode]
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
