@@ -173,4 +173,8 @@ This repository contains my solutions to various coding problems from [LeetCode]
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
+## Math
+|  |
+| ------- |
+| [2752-sum-multiples](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/2752-sum-multiples) |
 <!---LeetCode Topics End-->
