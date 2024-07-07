@@ -102,6 +102,7 @@ This repository contains my solutions to various coding problems from [LeetCode]
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
@@ -133,6 +134,7 @@ This repository contains my solutions to various coding problems from [LeetCode]
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -181,6 +183,7 @@ This repository contains my solutions to various coding problems from [LeetCode]
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [2752-sum-multiples](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/2752-sum-multiples) |
 <!---LeetCode Topics End-->
