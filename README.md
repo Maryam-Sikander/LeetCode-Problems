@@ -116,6 +116,7 @@ This repository contains my solutions to various coding problems from [LeetCode]
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0015-3sum) |
 | [0078-subsets](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0078-subsets) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -135,6 +136,7 @@ This repository contains my solutions to various coding problems from [LeetCode]
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
