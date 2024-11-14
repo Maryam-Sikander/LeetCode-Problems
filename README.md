@@ -106,6 +106,7 @@ This repository contains my solutions to various coding problems from [LeetCode]
 | [0013-roman-to-integer](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
+| [0742-to-lower-case](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0742-to-lower-case) |
 ## Stack
 |  |
 | ------- |
