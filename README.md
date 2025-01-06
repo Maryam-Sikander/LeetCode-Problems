@@ -127,6 +127,7 @@ This repository contains my solutions to various coding problems from [LeetCode]
 | [0561-array-partition](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0682-baseball-game) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0792-binary-search](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0792-binary-search) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -176,6 +177,7 @@ This repository contains my solutions to various coding problems from [LeetCode]
 | ------- |
 | [0035-search-insert-position](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0792-binary-search](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0792-binary-search) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
