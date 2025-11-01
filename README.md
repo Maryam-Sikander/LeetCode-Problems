@@ -125,6 +125,7 @@ This repository contains my solutions to various coding problems from [LeetCode]
 | [0078-subsets](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0078-subsets) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0682-baseball-game) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -147,6 +148,7 @@ This repository contains my solutions to various coding problems from [LeetCode]
 | [0012-integer-to-roman](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Counting
@@ -174,12 +176,14 @@ This repository contains my solutions to various coding problems from [LeetCode]
 | [0015-3sum](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0792-binary-search) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
@@ -187,6 +191,7 @@ This repository contains my solutions to various coding problems from [LeetCode]
 | ------- |
 | [0015-3sum](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0561-array-partition) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
