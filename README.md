@@ -124,6 +124,7 @@ This repository contains my solutions to various coding problems from [LeetCode]
 | [0035-search-insert-position](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0078-subsets](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0078-subsets) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0682-baseball-game) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -145,11 +146,13 @@ This repository contains my solutions to various coding problems from [LeetCode]
 | [0001-two-sum](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0169-majority-element) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0169-majority-element) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Simulation
@@ -183,6 +186,7 @@ This repository contains my solutions to various coding problems from [LeetCode]
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0561-array-partition) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -205,4 +209,8 @@ This repository contains my solutions to various coding problems from [LeetCode]
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0561-array-partition) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
