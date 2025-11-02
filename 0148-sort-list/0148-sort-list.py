@@ -8,12 +8,13 @@ class Solution:
         if not head or not head.next:
             return head
 
-        # split linked list
+        # split the list 
         mid = self.getMid(head)
         right = mid.next
         mid.next = None
         left = head
 
+        # sort the list 
         left = self.sortList(left)
         right = self.sortList(right)
         return self.merge(left, right)
@@ -32,13 +33,14 @@ class Solution:
                 tail.next = l1
                 l1 = l1.next
             else:
-                tail.next = l2
+                tail.next=l2
                 l2 = l2.next
-            tail  = tail.next
+            tail=tail.next
         if l1:
-            tail.next = l1
+            tail.next=l1
         if l2:
-            tail.next = l2
-        return dummy.next 
-        
-        
+            tail.next=l2
+
+        return dummy.next
+
+
