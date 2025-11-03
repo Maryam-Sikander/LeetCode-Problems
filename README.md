@@ -122,6 +122,7 @@ This repository contains my solutions to various coding problems from [LeetCode]
 | [0001-two-sum](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0078-subsets) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0169-majority-element) |
@@ -174,6 +175,7 @@ This repository contains my solutions to various coding problems from [LeetCode]
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0344-reverse-string) |
@@ -191,6 +193,7 @@ This repository contains my solutions to various coding problems from [LeetCode]
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
