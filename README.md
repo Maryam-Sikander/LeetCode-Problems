@@ -212,6 +212,7 @@ This repository contains my solutions to various coding problems from [LeetCode]
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [2752-sum-multiples](https://github.com/Maryam-Sikander/LeetCode-Problems/tree/master/2752-sum-multiples) |
